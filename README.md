@@ -1,4 +1,6 @@
-## MoneyBridge is a Java-based banking system designed using Object-Oriented Programming (OOP) principles and robust exception handling techniques. This project enables users to manage their banking activities with ease. Key features include:
+## MoneyBridge is a Java-based banking system designed using Object-Oriented Programming (OOP) principles and robust exception handling techniques. This project enables users to manage their banking activities with ease. 
+
+### Key features include:
 
 **User Management:** Create and store detailed user profiles including personal and account information.
 **Account Access:** Secure user login functionality.
